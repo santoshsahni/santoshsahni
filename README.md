@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santoshsahni
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently Flutter
+- 🌱 I’m currently bulding apps with flutter
 - 💞️ I’m looking to collaborate on GitHub with flutter app developer
 - 📫 You can contact me on 6306195707
 
